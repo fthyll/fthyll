@@ -1,4 +1,12 @@
+<!--
+**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+
+<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
+
+![](https://i.imgur.com/pOdScRT.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Fatih Yumna Lajuwirdi Lirrahman</h1>
+
 <h3 align="center">I am a student at Telkom University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20views&color=0e75b6&style=flat" alt="fthyll" /> </p>
@@ -12,8 +20,6 @@
 - 🌱 I’m currently learning **C / #C / C++**
 
 - 👯 I’m looking to collaborate on [Musicium](https://github.com/Tomato6966/Musicium)
-
-- 👨‍💻 All of my projects are available at [prof-ao.tech](prof-ao.tech)
 
 - 💬 Ask me about **whatever....**
 
