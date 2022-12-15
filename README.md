@@ -9,6 +9,8 @@
 
 <h3 align="center">I am a student at Telkom University</h3>
 
+<img align="right" alt="Coding" width="260" src="https://i.imgur.com/8YiIIos.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20views&color=0e75b6&style=flat" alt="fthyll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fthyll" alt="fthyll" /></a> </p>
