@@ -3,7 +3,7 @@
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![](https://i.imgur.com/ikFgs4g.gif)
+![](https://i.imgur.com/ikFgs4g.mp4)
 
 <h1 align="center">Hi 👋, I'm Muhammad Fatih Yumna Lajuwirdi Lirrahman</h1>
 
