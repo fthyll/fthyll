@@ -49,9 +49,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20views&color=0e75b6&style=flat" alt="fthyll" /> </p>
 
-  <div align="center">
- <img style="margin-left:35px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
- <img style="margin-right:35px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=transparent" />
- <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=transparent" alt="fthyll" />
- 
-   </div>
+<div align="center">
+  <img style="margin-left:35px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
+    <img style="margin-right:35px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=transparent" />
+    <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=transparent" alt="fthyll" />
+ </div>
+ <h3 align="left">Contributions In The Last Year</h3>
+ <div align="center">
+    <img  style="margin-top:100px" src="asset/github-user-contribution.svg" alt="fthyll" />
+ </div>
