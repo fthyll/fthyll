@@ -3,7 +3,7 @@
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-[![MasterHead](https://i.imgur.com/6pC6TmC.gif)](https://fthyll-dev.tech)
+[![MasterHead](asset/welcome.gif)](https://fthyll-dev.tech)
 
 <h1 align="center">Hi 👋, I'm Muhammad Fatih Yumna Lajuwirdi Lirrahman</h1>
 
@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3" alt="fthyll" /></a> </p>
 
-<img align="right" alt="Coding" width="260" src="https://i.imgur.com/8YiIIos.png">
+<img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
 
 - 🔭 I’m currently working on [project AO bot music](https://ao.fthyll.repl.co)
 
