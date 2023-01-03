@@ -56,3 +56,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&locale=en" alt="fthyll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fthyll&theme=dark" alt="fthyll" /></p>
+
+ <div align="center">
+ <img style="margin-left:20px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
+ <img style="margin-right:20px" height="150px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+
+ <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=Gradient" alt="fthyll" />
+   </div>
