@@ -12,8 +12,7 @@
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3" alt="fthyll" /></a> </p>
 
 <img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
-
-- 🔭 I’m currently working on [project AO bot music](https://ao.fthyll.repl.co)
+<table><tr><td valign="center" width="50%">
 
 - 🌱 I’m currently learning **C / #C / C++**
 
