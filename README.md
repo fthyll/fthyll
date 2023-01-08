@@ -12,6 +12,7 @@
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3" alt="fthyll" /></a> </p>
 
 <img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
+
 <table><tr><td valign="center" width="50%">
 
 - 🌱 I’m currently learning **C / #C / C++**
@@ -21,6 +22,17 @@
 - 💬 Ask me about **whatever....**
 
 - 📫 How to reach me **m.fatihyumna25@gmail.com**
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
 
 ### 🎧 I'm listening to:
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
