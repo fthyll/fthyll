@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
 
-<h3 align="left"> ☺ Glad to see you here! </h3>
+<h3 align="left"> 😁 Glad to see you here! </h3>
 
 <table><tr><td valign="center" width="50%">
 
