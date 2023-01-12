@@ -1,5 +1,6 @@
 <!--
-**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+-->
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
 [![MasterHead](asset/welcome.gif)](https://fthyll-dev.tech)
@@ -13,6 +14,11 @@
 <img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
 
 <h3 align="left"> 😁 Glad to see you here! </h3>
+
+> My name is ***Muhammad Fatih Yumna Lajuwirdi Lirrahman***. I am currently a student at Telkom University studying Informatics. I am passionate about technology and am interested in pursuing a career in this field. As a student, I strive to learn and master the basics of programming, as well as having the ability to write code and solve problems. I am also able to use various software such as MS Office and Google Suite efficiently.
+
+> In addition, I am proficient in the English language, allowing me to understand and communicate well. My hobbies include listening to music, playing games, and reading books. I am always interested in learning about new technology and expanding my knowledge in the IT field. I hope to find opportunities to collaborate with professionals in my field of interest and learn more from them.
+
 
 <table><tr><td valign="center" width="50%">
 
@@ -62,9 +68,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20views&color=0e75b6&style=flat" alt="fthyll" /> </p>
 
 <div align="center">
+
   <img style="margin-left:35px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
-    <img style="margin-right:35px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=transparent" />
-    <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=transparent" alt="fthyll" />
+  
+  <img style="margin-right:35px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=transparent" />
+  <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=transparent" alt="fthyll" />
+  
  </div>
  <h3 align="left">Contributions In The Last Year</h3>
  <div align="center">
