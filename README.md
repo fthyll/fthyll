@@ -19,7 +19,6 @@
 >
 > In addition, I am proficient in the English language, allowing me to understand and communicate well. My hobbies include listening to music, playing games, and reading books. I am always interested in learning about new technology and expanding my knowledge in the IT field. I hope to find opportunities to collaborate with professionals in my field of interest and learn more from them.
 
-
 <table><tr><td valign="center" width="50%">
 
 - 🌱 I’m currently learning **C / #C / C++**
