@@ -39,7 +39,6 @@
 </td></tr></table>  
 <br/>  
 
-
 ### 🎧 I'm listening to:
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
