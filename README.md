@@ -21,17 +21,7 @@
 >
 > In addition, I am proficient in the English language, allowing me to understand and communicate well. My hobbies include listening to music, playing games, and reading books. I am always interested in learning about new technology and expanding my knowledge in the IT field. I hope to find opportunities to collaborate with professionals in my field of interest and learn more from them.
 
-<table><tr><td valign="center" width="50%">
 
-- 🌱 I’m currently learning **C / #C / C++**
-
-- 👯 I’m looking to collaborate on [Musicium](https://github.com/Tomato6966/Musicium)
-
-- 💬 Ask me about **whatever....**
-
-- 📫 How to reach me **m.fatihyumna25@gmail.com**
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
