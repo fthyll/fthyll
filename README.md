@@ -39,6 +39,9 @@
 <a href="https://top.gg/bot/894465343077122088">
   <img src="https://top.gg/api/widget/894465343077122088.svg">
 </a>
+<a href="https://top.gg/bot/1117549910309482648">
+  <img src="https://top.gg/api/widget/1117549910309482648.svg">
+</a>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="center">
