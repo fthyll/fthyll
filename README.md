@@ -22,11 +22,6 @@
 > In addition, I am proficient in the English language, allowing me to understand and communicate well. My hobbies include listening to music, playing games, and reading books. I am always interested in learning about new technology and expanding my knowledge in the IT field. I hope to find opportunities to collaborate with professionals in my field of interest and learn more from them.
 
 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 </td></tr></table>  
 <br/>  
 
@@ -34,7 +29,11 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
 
-### 🤖 Discord Bots
+### 🤖 Discord
+<p align="center">
+<a href="https://discord.com/users/789065787276132392">
+            <img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="status" className={styles['status']} />
+</a>
 <p align="center">
 <a href="https://top.gg/bot/894465343077122088">
   <img src="https://top.gg/api/widget/894465343077122088.svg">
