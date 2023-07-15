@@ -11,7 +11,7 @@
 
 <h3 align="center">🎓I am a student at Telkom University🎓</h3>
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=3" alt="fthyll" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6" alt="fthyll" /></a> </p>
 
 <img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
 
