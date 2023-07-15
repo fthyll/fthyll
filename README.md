@@ -26,20 +26,16 @@
 <br/>  
 
 ### 🎧 I'm listening to:
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ou9knetdtcfyd4gzxzoi16lcu&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile">
+</p>
+
 
 
 ### 🤖 Discord
 <p align="center">
 <a href="https://discord.com/users/789065787276132392">
-            <img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="status" className={styles['status']} />
-</a>
-<p align="center">
-<a href="https://top.gg/bot/894465343077122088">
-  <img src="https://top.gg/api/widget/894465343077122088.svg">
-</a>
-<a href="https://top.gg/bot/1117549910309482648">
-  <img src="https://top.gg/api/widget/1117549910309482648.svg">
+<img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="status" className={styles['status']} />
 </a>
 
 <h3 align="left">🔗 Connect with me:</h3>
