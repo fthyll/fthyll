@@ -13,15 +13,10 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6"><img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6" alt="fthyll" /></a> </p>
 
-<img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
-
 <h3 align="left"> 😁 Glad to see you here! </h3>
 
 > Let me introduce myself. My name is Muhammad Fatih Yumna Lajuwirdi Lirrahman. I am currently a student at Telkom University studying Informatics. I am passionate about technology and am interested in pursuing a career in this field. As a student, I strive to learn and master the basics of programming, as well as having the ability to write code and solve problems.
-
-
-</td></tr></table>  
-<br/>  
+  
 
 ### 🤖 Discord
 <p align="center">
@@ -54,7 +49,7 @@
 
 <div align="center">
 
-  <img style="margin-left:35px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
+<img style="margin-left:35px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=transparent" alt="fthyll" />
   
   <img style="margin-right:35px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=transparent" />
   <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=transparent" alt="fthyll" />
