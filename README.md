@@ -30,7 +30,8 @@
 </p>
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327)](https://github.com/rayriffy/apple-music-github-profile)
-<h3 align="center">🔗 Connect with me:</h3>
+
+<h3 align="left">🔗 Connect with me:</h3>
 
 <p align="center">
 <a href="https://codepen.io/fthyll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fthyll" height="30" width="40" /></a>
