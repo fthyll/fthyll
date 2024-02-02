@@ -17,8 +17,8 @@
 
 > Let me introduce myself. My name is Muhammad Fatih Yumna Lajuwirdi Lirrahman. I am currently a student at Telkom University studying Informatics. I am passionate about technology and am interested in pursuing a career in this field. As a student, I strive to learn and master the basics of programming, as well as having the ability to write code and solve problems.
   
-
-### 🤖 Discord
+<!--
+ ### 🤖 Discord
 <p align="center">
 <a href="https://discord.com/users/789065787276132392">
 <img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="status" className={styles['status']} />
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-
+-->
 
 <h3 align="left">🔗 Connect with me:</h3>
 
