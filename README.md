@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </p>
+
 ###  Apple Music 
 <p align="center">
 <p align="center">
