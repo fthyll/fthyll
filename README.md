@@ -26,7 +26,7 @@
 
 ### 🎧 Spotify
 <p align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes})
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes}"
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="center">
