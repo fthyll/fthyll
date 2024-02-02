@@ -25,10 +25,9 @@
 </a>
 
 <div style="text-align:center;">
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique=true)
-
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique=true" alt="Alt text">
 </div>
+
 
 
 <h3 align="left">🔗 Connect with me:</h3>
