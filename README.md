@@ -29,7 +29,12 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </p>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327)](https://github.com/rayriffy/apple-music-github-profile)
+<p align="center">
+  <a href="https://github.com/rayriffy/apple-music-github-profile">
+    <img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327" alt="Apple Music GitHub profile" />
+  </a>
+</p>
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 
