@@ -57,6 +57,6 @@
  </div>
  <h3 align="left">Contributions In The Last Year</h3>
  <div align="center">
-    <img  style="margin-top:100px" src="asset/github-user-contribution.svg" alt="fthyll" />
+    <img  style="margin-top:100px" src="asset/github-user-contribution-2023.svg" alt="fthyll" />
  </div>
 
