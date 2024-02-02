@@ -30,10 +30,12 @@
 </p>
 
 <p align="center">
+<p align="center">
   <a href="https://github.com/rayriffy/apple-music-github-profile">
-    <img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327" alt="Apple Music GitHub profile" />
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327" alt="Apple Music GitHub profile" />
   </a>
 </p>
+
 
 
 <h3 align="left">🔗 Connect with me:</h3>
