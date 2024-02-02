@@ -24,10 +24,10 @@
 <img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="status" className={styles['status']} />
 </a>
 
+### 🎧 Spotify
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </p>
-
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="center">
