@@ -29,7 +29,9 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ou9knetdtcfyd4gzxzoi16lcu&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </p>
 
-<h3 align="left">🔗 Connect with me:</h3>
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001515.efd2e89d370b4b239b0d7652dd057e99.2327)](https://github.com/rayriffy/apple-music-github-profile)
+<h3 align="center">🔗 Connect with me:</h3>
+
 <p align="center">
 <a href="https://codepen.io/fthyll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fthyll" height="30" width="40" /></a>
 <a href="https://dev.to/fthyll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fthyll" height="30" width="40" /></a>
