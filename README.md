@@ -2,206 +2,79 @@
 **fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-
-
-<div align="center">
-
-<!-- HEADER dengan Gradient Satin Linen to Te Papa Green -->
-<div style="background: linear-gradient(135deg, #EBEBDB 0%, #203F46 100%);
-            padding: 40px 20px;
-            border-radius: 20px;
-            margin: 20px 0;
-            box-shadow: 0 10px 30px rgba(32, 63, 70, 0.3);">
-
-<h1 style="color: #203F46; 
-           font-size: 42px; 
-           text-shadow: 2px 2px 4px rgba(235, 235, 219, 0.5);
-           margin: 0;
-           font-weight: 700;">
-  👋 Hi, I'm Muhammad Fatih
-</h1>
-
-<h2 style="color: #EBEBDB; 
-           font-size: 24px; 
-           font-weight: 300;
-           margin: 10px 0 0 0;
-           letter-spacing: 2px;">
-  🔮 Building the Future of Digital Divination with LLMs
-</h2>
-
-</div>
-
-<!-- Badge Profile Views -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20Views&color=BC4E46&style=flat" alt="fthyll" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=203F46&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Fatih;%F0%9F%94%AE+Building+Tarot+AI+with+LLMs" alt="Typing SVG" />
 </p>
 
-<!-- Trophy dengan Warna Custom -->
-<div style="background: #EBEBDB;
-            padding: 15px;
-            border-radius: 15px;
-            margin: 20px 0;
-            border: 2px solid #BC4E46;">
-  <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=darkhub" alt="fthyll" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20Views&color=BC4E46&style=flat-square" alt="fthyll" />
+</p>
+
+<!-- TROPHY -->
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=nord">
+    <img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=nord" alt="fthyll" />
   </a>
-</div>
-
-</div>
+</p>
 
 ---
 
-### 🌟 About Me
-
-<div style="background: #EBEBDB;
-            padding: 25px;
-            border-radius: 15px;
-            border-left: 5px solid #BC4E46;
-            margin: 20px 0;">
-
-<p style="color: #203F46; 
-          font-size: 16px; 
-          line-height: 1.8;
-          margin: 0;">
-
-  > I'm a passionate developer on a mission to bridge ancient wisdom with cutting-edge AI. 
-  Currently, I'm fully immersed in the world of Large Language Models and their applications. 
-  I'm developing an **AI-powered Tarot reading system** that combines the mystique of tarot 
-  with the intelligence of modern LLMs.
-
-</p>
-
-</div>
-
-<div style="display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin: 20px 0;">
-
-<div style="flex: 1;
-            min-width: 200px;
-            background: #203F46;
-            padding: 20px;
-            border-radius: 15px;
-            border: 2px solid #D49484;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 10px 0;">🎯 Current Focus</h4>
-<p style="color: #D49484; margin: 0;">
-  Building LLM-based Tarot applications with context-aware intelligence
-</p>
-
-</div>
-
-<div style="flex: 1;
-            min-width: 200px;
-            background: #203F46;
-            padding: 20px;
-            border-radius: 15px;
-            border: 2px solid #D49484;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 10px 0;">🌱 Learning</h4>
-<p style="color: #D49484; margin: 0;">
-  Advanced Prompt Engineering • RAG • Fine-tuning LLMs
-</p>
-
-</div>
-
-<div style="flex: 1;
-            min-width: 200px;
-            background: #203F46;
-            padding: 20px;
-            border-radius: 15px;
-            border: 2px solid #D49484;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 10px 0;">🔮 Mission</h4>
-<p style="color: #D49484; margin: 0;">
-  Making divination accessible, insightful, and AI-enhanced
-</p>
-
-</div>
-
-</div>
+<!-- ABOUT ME -->
+<table>
+  <tr>
+    <td>
+      <h3>🌟 About Me</h3>
+      <p>
+        I'm a passionate developer on a mission to bridge ancient wisdom with cutting-edge AI. 
+        Currently, I'm developing an <strong>AI-powered Tarot reading system</strong> that combines 
+        the mystique of tarot with the intelligence of modern LLMs.
+      </p>
+      <ul>
+        <li>🎯 <strong>Current Focus:</strong> Building LLM-based Tarot applications</li>
+        <li>🌱 <strong>Learning:</strong> Advanced Prompt Engineering, RAG, Fine-tuning LLMs</li>
+        <li>🔮 <strong>Mission:</strong> Making divination accessible with AI</li>
+        <li>💡 <strong>Interests:</strong> AI/ML, NLP, Esoteric Knowledge, UX Design</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3dXR4N3JxbHBhZzRrY3M4N2ZpcDdoYm5vOXA0M2R5dGF0N29zNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Tarot GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎴 Tarot LLM Project
+<!-- TAROT PROJECT -->
+<h3 align="center">🎴 Tarot LLM Project</h3>
 
-<div style="background: linear-gradient(135deg, #203F46 0%, #2A4D55 100%);
-            padding: 25px;
-            border-radius: 15px;
-            margin: 20px 0;
-            border: 1px solid #D49484;">
-
-<h3 style="color: #EBEBDB; text-align: center; margin-top: 0;">
-  🔮 Intelligent Tarot Reading System
-</h3>
-
-<p style="color: #D49484; text-align: center; font-size: 16px;">
-  Leveraging Large Language Models to provide meaningful, personalized, 
-  and context-aware tarot readings
-</p>
-
-<div style="display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 20px;">
-
-<div style="background: #EBEBDB22;
-            padding: 15px;
-            border-radius: 10px;
-            border: 1px solid #BC4E46;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 8px 0;">🃏 Smart Interpretation</h4>
-<p style="color: #D49484; margin: 0; font-size: 14px;">
-  Dynamic card interpretation with contextual awareness
-</p>
-
-</div>
-
-<div style="background: #EBEBDB22;
-            padding: 15px;
-            border-radius: 10px;
-            border: 1px solid #BC4E46;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 8px 0;">🧠 Personalized</h4>
-<p style="color: #D49484; margin: 0; font-size: 14px;">
-  Readings based on user interaction history and preferences
-</p>
-
-</div>
-
-<div style="background: #EBEBDB22;
-            padding: 15px;
-            border-radius: 10px;
-            border: 1px solid #BC4E46;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 8px 0;">📖 Wisdom Integration</h4>
-<p style="color: #D49484; margin: 0; font-size: 14px;">
-  Traditional meanings combined with modern psychology insights
-</p>
-
-</div>
-
-<div style="background: #EBEBDB22;
-            padding: 15px;
-            border-radius: 10px;
-            border: 1px solid #BC4E46;">
-
-<h4 style="color: #EBEBDB; margin: 0 0 8px 0;">💬 Natural Flow</h4>
-<p style="color: #D49484; margin: 0; font-size: 14px;">
-  Intuitive conversation for meaningful guidance sessions
-</p>
-
-</div>
-
-</div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4>🃏 Smart Interpretation</h4>
+      <p>Dynamic card interpretation with contextual awareness</p>
+    </td>
+    <td align="center">
+      <h4>🧠 Personalized</h4>
+      <p>Readings based on user interaction history</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>📖 Wisdom Integration</h4>
+      <p>Traditional meanings + modern psychology</p>
+    </td>
+    <td align="center">
+      <h4>💬 Natural Flow</h4>
+      <p>Intuitive conversation for meaningful guidance</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤖 Discord Presence
-
+<!-- DISCORD -->
+<h3 align="center">🤖 Discord Presence</h3>
 <p align="center">
   <a href="https://discord.com/users/789065787276132392">
     <img src="https://lanyard-profile-readme.vercel.app/api/789065787276132392?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" alt="Discord Status" />
@@ -210,266 +83,148 @@
 
 ---
 
-### 🔗 Connect with Me
-
+<!-- SOCIAL MEDIA -->
+<h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
-
-<a href="https://codepen.io/fthyll" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fthyll" height="30" width="40" />
-</a>
-
-<a href="https://dev.to/fthyll" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fthyll" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/fthyll" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fthyll" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman-25april2003" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://stackoverflow.com/users/18449017" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18449017" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/fthyll.0425" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fthyll.0425" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/c/@center.2504" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@center.2504" height="30" width="40" />
-</a>
-
-<a href="https://discord.gg/t3n9CeZV" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t3n9CeZV" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-<div style="background: #203F46;
-            padding: 25px;
-            border-radius: 15px;
-            margin: 20px 0;
-            border: 2px solid #BC4E46;">
-
-<h3 align="center" style="color: #EBEBDB; margin-top: 0;">🚀 Technologies I Work With</h3>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-<!-- AI/ML -->
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🐍 Python
-</span>
-
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🤖 PyTorch
-</span>
-
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🧠 TensorFlow
-</span>
-
-<!-- LLM Stack -->
-<span style="background: #D49484; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  ⚡ OpenAI
-</span>
-
-<span style="background: #D49484; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🔗 LangChain
-</span>
-
-<span style="background: #D49484; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🤗 HuggingFace
-</span>
-
-<!-- Frontend -->
-<span style="background: #BC4E46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  ⚛️ React
-</span>
-
-<span style="background: #BC4E46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  💛 JavaScript
-</span>
-
-<span style="background: #BC4E46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  🌐 HTML/CSS
-</span>
-
-<!-- Backend -->
-<span style="background: #203F46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  🐹 Go
-</span>
-
-<span style="background: #203F46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  🚀 FastAPI
-</span>
-
-<span style="background: #203F46; color: #EBEBDB; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #D49484;">
-  🗄️ PostgreSQL
-</span>
-
-<!-- Tools -->
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🎨 Figma
-</span>
-
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🐳 Docker
-</span>
-
-<span style="background: #EBEBDB; color: #203F46; padding: 8px 20px; border-radius: 25px; font-weight: 600; border: 2px solid #BC4E46;">
-  🔧 Git
-</span>
-
-</div>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-
-<div style="background: #EBEBDB; padding: 15px; border-radius: 15px; border: 2px solid #BC4E46;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div style="background: #EBEBDB; padding: 15px; border-radius: 15px; border: 2px solid #BC4E46;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-</div>
-
-<div style="background: #EBEBDB; padding: 15px; border-radius: 15px; border: 2px solid #BC4E46; margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=radical" alt="GitHub Streak" />
-</div>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center" style="background: #EBEBDB; padding: 20px; border-radius: 15px; border: 2px solid #BC4E46;">
-  <img src="asset/github-user-contribution-2023.svg" alt="GitHub Contributions 2023" />
-</div>
-
----
-
-### 💭 Daily Mantra
-
-<div style="background: linear-gradient(135deg, #203F46 0%, #2A4D55 100%);
-            padding: 30px;
-            border-radius: 15px;
-            margin: 20px 0;
-            border: 2px solid #D49484;
-            text-align: center;">
-
-<p style="color: #EBEBDB; 
-          font-size: 20px; 
-          font-style: italic;
-          line-height: 1.8;
-          margin: 0;">
-  "The code is written in the stars, and the stars are written in the code. 
-  <br>
-  Every algorithm is a pattern, and every pattern holds meaning."
-</p>
-
-<p style="color: #D49484; margin: 15px 0 0 0; font-size: 14px;">
-  ✨ Building the intersection of mysticism and machine learning ✨
-</p>
-
-</div>
-
----
-
-### 🎴 Tarot Card of the Day
-
-<div align="center">
-
-<div style="background: linear-gradient(135deg, #EBEBDB 0%, #D49484 100%);
-            padding: 20px;
-            border-radius: 50%;
-            width: 120px;
-            height: 120px;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            margin: 20px 0;
-            border: 3px solid #203F46;
-            box-shadow: 0 10px 30px rgba(32, 63, 70, 0.3);">
-
-<span style="font-size: 48px;">🃏</span>
-
-</div>
-
-<p style="color: #203F46; font-size: 20px; font-weight: bold; margin: 0;">
-  ✨ The Star ✨
-</p>
-
-<p style="color: #BC4E46; font-size: 16px; margin: 5px 0 0 0;">
-  Hope • Inspiration • Serenity
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<p style="color: #203F46; font-size: 14px; margin: 20px 0;">
-  <span style="background: #EBEBDB; padding: 5px 15px; border-radius: 10px; border: 1px solid #BC4E46;">
-    Made with ❤️ and 🎴 by Fatih
-  </span>
-</p>
-
-<p>
-  <a href="https://fthyll-dev.tech" style="text-decoration: none;">
-    <span style="background: #BC4E46; color: #EBEBDB; padding: 10px 30px; border-radius: 25px; font-weight: 600; display: inline-block; border: 2px solid #D49484;">
-      🌐 Visit My Portfolio
-    </span>
+  <a href="https://codepen.io/fthyll" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fthyll" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/fthyll" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fthyll" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/fthyll" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fthyll" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman-25april2003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/18449017" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18449017" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/fthyll.0425" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fthyll.0425" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/@center.2504" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@center.2504" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/t3n9CeZV" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t3n9CeZV" height="30" width="40" />
   </a>
 </p>
 
-</div>
+---
 
-<!-- Color Palette Reference -->
-<details>
-<summary style="color: #203F46; font-weight: bold; cursor: pointer;">🎨 Color Palette</summary>
-<div style="background: #EBEBDB; padding: 15px; border-radius: 10px; margin: 10px 0;">
+<!-- TECH STACK -->
+<h3 align="center">⚙️ Tech Stack</h3>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<p align="center">
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/Python-203F46?style=for-the-badge&logo=python&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/PyTorch-BC4E46?style=for-the-badge&logo=pytorch&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/TensorFlow-D49484?style=for-the-badge&logo=tensorflow&logoColor=203F46" />
+  
+  <!-- LLM -->
+  <img src="https://img.shields.io/badge/OpenAI-203F46?style=for-the-badge&logo=openai&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/LangChain-BC4E46?style=for-the-badge&logo=langchain&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/HuggingFace-D49484?style=for-the-badge&logo=huggingface&logoColor=203F46" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-203F46?style=for-the-badge&logo=react&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/JavaScript-BC4E46?style=for-the-badge&logo=javascript&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/HTML5-D49484?style=for-the-badge&logo=html5&logoColor=203F46" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Go-203F46?style=for-the-badge&logo=go&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/FastAPI-BC4E46?style=for-the-badge&logo=fastapi&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-D49484?style=for-the-badge&logo=postgresql&logoColor=203F46" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Figma-203F46?style=for-the-badge&logo=figma&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/Docker-BC4E46?style=for-the-badge&logo=docker&logoColor=EBEBDB" />
+  <img src="https://img.shields.io/badge/Git-D49484?style=for-the-badge&logo=git&logoColor=203F46" />
+</p>
 
-<div style="text-align: center;">
-  <div style="background: #EBEBDB; width: 80px; height: 80px; border-radius: 10px; border: 2px solid #203F46;"></div>
-  <p style="margin: 5px 0; color: #203F46;">Satin Linen<br>#EBEBDB</p>
-</div>
+---
 
-<div style="text-align: center;">
-  <div style="background: #203F46; width: 80px; height: 80px; border-radius: 10px; border: 2px solid #EBEBDB;"></div>
-  <p style="margin: 5px 0; color: #203F46;">Te Papa Green<br>#203F46</p>
-</div>
+<!-- STATS -->
+<h3 align="center">📊 GitHub Analytics</h3>
 
-<div style="text-align: center;">
-  <div style="background: #BC4E46; width: 80px; height: 80px; border-radius: 10px; border: 2px solid #203F46;"></div>
-  <p style="margin: 5px 0; color: #203F46;">Chestnut<br>#BC4E46</p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<div style="text-align: center;">
-  <div style="background: #D49484; width: 80px; height: 80px; border-radius: 10px; border: 2px solid #203F46;"></div>
-  <p style="margin: 5px 0; color: #203F46;">My Pink<br>#D49484</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fthyll&theme=radical" alt="GitHub Streak" />
+</p>
 
-</div>
+---
 
-</div>
-</details>
+<!-- TAROT CARD OF THE DAY -->
+<h3 align="center">🎴 Card of the Day</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🃏-The%20Star-203F46?style=for-the-badge&labelColor=D49484" />
+</p>
+
+<p align="center" style="color: #BC4E46;">
+  <em>Hope ✦ Inspiration ✦ Serenity</em>
+</p>
+
+---
+
+<!-- QUOTE -->
+<h3 align="center">💭 Daily Mantra</h3>
+
+<blockquote align="center">
+  <p style="color: #203F46;">
+    <em>"The code is written in the stars, and the stars are written in the code. 
+    <br>Every algorithm is a pattern, and every pattern holds meaning."</em>
+  </p>
+</blockquote>
+
+<p align="center">
+  ✨ Building the intersection of mysticism and machine learning ✨
+</p>
+
+---
+
+<!-- COLOR PALETTE -->
+<h3 align="center">🎨 Color Palette</h3>
+
+<p align="center">
+  <!-- Satin Linen -->
+  <img src="https://img.shields.io/badge/Satin%20Linen-EBEBDB-?style=for-the-badge&logo=color&logoColor=203F46&labelColor=EBEBDB&color=EBEBDB" />
+  
+  <!-- Te Papa Green -->
+  <img src="https://img.shields.io/badge/Te%20Papa%20Green-203F46-?style=for-the-badge&logo=color&logoColor=EBEBDB&labelColor=203F46&color=203F46" />
+  
+  <!-- Chestnut -->
+  <img src="https://img.shields.io/badge/Chestnut-BC4E46-?style=for-the-badge&logo=color&logoColor=EBEBDB&labelColor=BC4E46&color=BC4E46" />
+  
+  <!-- My Pink -->
+  <img src="https://img.shields.io/badge/My%20Pink-D49484-?style=for-the-badge&logo=color&logoColor=203F46&labelColor=D49484&color=D49484" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <a href="https://fthyll-dev.tech">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-fthyll--dev.tech-203F46?style=for-the-badge&logo=vercel&logoColor=EBEBDB&labelColor=BC4E46" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  Made with ❤️ and 🎴 by Fatih
+</p>
