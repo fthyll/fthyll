@@ -2,32 +2,32 @@
 **fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-<!-- HEADER -->
+<!-- HEADER dengan Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=203F46&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Fatih;%F0%9F%94%AE+Building+Tarot+AI+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=203F46&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Fatih;%F0%9F%94%AE+Building+Tarot+AI+with+LLMs;%F0%9F%8E%B4+Creator+of+TarotBot" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fthyll&label=Profile%20Views&color=BC4E46&style=flat-square" alt="fthyll" />
 </p>
 
-<!-- TROPHY -->
+<!-- TROPHY dengan Opsi Theme -->
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=nord">
-    <img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=1&column=6&theme=nord" alt="fthyll" />
+  <a href="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=4&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=fthyll&row=2&column=4&theme=onedark" alt="fthyll" />
   </a>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME dengan TarotBot Highlight -->
 <table>
   <tr>
-    <td>
+    <td width="60%">
       <h3>🌟 About Me</h3>
       <p>
         I'm a passionate developer on a mission to bridge ancient wisdom with cutting-edge AI. 
-        Currently, I'm developing an <strong>AI-powered Tarot reading system</strong> that combines 
+        I created <strong>TarotBot</strong> — an AI-powered tarot reading bot for Discord that combines 
         the mystique of tarot with the intelligence of modern LLMs.
       </p>
       <ul>
@@ -37,36 +37,74 @@
         <li>💡 <strong>Interests:</strong> AI/ML, NLP, Esoteric Knowledge, UX Design</li>
       </ul>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3dXR4N3JxbHBhZzRrY3M4N2ZpcDdoYm5vOXA0M2R5dGF0N29zNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Tarot GIF" />
+    <td width="40%" align="center">
+      <a href="https://fthyll.github.io/tarot-bot-web/index.html">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3dXR4N3JxbHBhZzRrY3M4N2ZpcDdoYm5vOXA0M2R5dGF0N29zNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Tarot GIF" />
+      </a>
+      <br>
+      <a href="https://fthyll.github.io/tarot-bot-web/index.html">
+        <img src="https://img.shields.io/badge/🎴%20Try%20TarotBot-203F46?style=for-the-badge&logo=discord&logoColor=EBEBDB" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TAROT PROJECT -->
-<h3 align="center">🎴 Tarot LLM Project</h3>
+<!-- TAROTBOT FEATURES -->
+<h3 align="center">🎴 TarotBot — AI Tarot Reader for Discord</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h4>🃏 78 Cards</h4>
+      <p>Complete Rider-Waite-Smith deck with upright & reversed meanings</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🎯 11 Spreads</h4>
+      <p>From single card to Celtic Cross — choose your reading style</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🧠 30+ AI Models</h4>
+      <p>Choose from multiple LLMs through 9Router integration</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🌍 2 Languages</h4>
+      <p>Indonesian and English — fully bilingual experience</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://fthyll.github.io/tarot-bot-web/index.html">
+    <img src="https://img.shields.io/badge/🌐%20TarotBot%20Website-203F46?style=for-the-badge&logo=githubpages&logoColor=EBEBDB&labelColor=BC4E46" />
+  </a>
+</p>
+
+---
+
+<!-- TAROT PROJECT DETAIL -->
+<h3 align="center">🔮 Project Philosophy</h3>
 
 <table align="center">
   <tr>
     <td align="center">
-      <h4>🃏 Smart Interpretation</h4>
-      <p>Dynamic card interpretation with contextual awareness</p>
+      <h4>✨ Thoughtful Ritual</h4>
+      <p>Designed for meaningful moments, not quick answers</p>
     </td>
     <td align="center">
-      <h4>🧠 Personalized</h4>
-      <p>Readings based on user interaction history</p>
+      <h4>📖 Private by Choice</h4>
+      <p>Your readings and journal stay private to you</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h4>📖 Wisdom Integration</h4>
-      <p>Traditional meanings + modern psychology</p>
+      <h4>🧘 Daily Practice</h4>
+      <p>Daily card, weekly check-in, and private journal</p>
     </td>
     <td align="center">
-      <h4>💬 Natural Flow</h4>
-      <p>Intuitive conversation for meaningful guidance</p>
+      <h4>🤖 AI-Assisted</h4>
+      <p>Interpretation with a point of view — choose your voice</p>
     </td>
   </tr>
 </table>
@@ -142,6 +180,7 @@
   <img src="https://img.shields.io/badge/Figma-203F46?style=for-the-badge&logo=figma&logoColor=EBEBDB" />
   <img src="https://img.shields.io/badge/Docker-BC4E46?style=for-the-badge&logo=docker&logoColor=EBEBDB" />
   <img src="https://img.shields.io/badge/Git-D49484?style=for-the-badge&logo=git&logoColor=203F46" />
+  <img src="https://img.shields.io/badge/Discord-203F46?style=for-the-badge&logo=discord&logoColor=EBEBDB" />
 </p>
 
 ---
@@ -173,7 +212,7 @@
   <img src="https://img.shields.io/badge/🃏-The%20Star-203F46?style=for-the-badge&labelColor=D49484" />
 </p>
 
-<p align="center" style="color: #BC4E46;">
+<p align="center">
   <em>Hope ✦ Inspiration ✦ Serenity</em>
 </p>
 
@@ -183,7 +222,7 @@
 <h3 align="center">💭 Daily Mantra</h3>
 
 <blockquote align="center">
-  <p style="color: #203F46;">
+  <p>
     <em>"The code is written in the stars, and the stars are written in the code. 
     <br>Every algorithm is a pattern, and every pattern holds meaning."</em>
   </p>
@@ -193,15 +232,14 @@
   ✨ Building the intersection of mysticism and machine learning ✨
 </p>
 
-<!-- FOOTER -->
+---
+
+<!-- FOOTER dengan TarotBot Link -->
 <p align="center">
   <a href="https://fthyll-dev.tech">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-fthyll--dev.tech-203F46?style=for-the-badge&logo=vercel&logoColor=EBEBDB&labelColor=BC4E46" />
   </a>
-</p>
-
-
-
-<p align="center">
-  Made with ❤️ and 🎴 by fthyll
+  <a href="https://fthyll.github.io/tarot-bot-web/index.html">
+    <img src="https://img.shields.io/badge/🎴%20TarotBot-203F46?style=for-the-badge&logo=githubpages&logoColor=EBEBDB&labelColor=D49484" />
+  </a>
 </p>
