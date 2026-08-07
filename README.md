@@ -192,16 +192,6 @@
 <p align="center">
   ✨ Building the intersection of mysticism and machine learning ✨
 </p>
-
----
-  
-  <!-- Chestnut -->
-  <img src="https://img.shields.io/badge/Chestnut-BC4E46-?style=for-the-badge&logo=color&logoColor=EBEBDB&labelColor=BC4E46&color=BC4E46" />
-  
-  <!-- My Pink -->
-  <img src="https://img.shields.io/badge/My%20Pink-D49484-?style=for-the-badge&logo=color&logoColor=203F46&labelColor=D49484&color=D49484" />
-</p>
-
 ---
 
 <!-- FOOTER -->
