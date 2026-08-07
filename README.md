@@ -194,16 +194,6 @@
 </p>
 
 ---
-
-<!-- COLOR PALETTE -->
-<h3 align="center">🎨 Color Palette</h3>
-
-<p align="center">
-  <!-- Satin Linen -->
-  <img src="https://img.shields.io/badge/Satin%20Linen-EBEBDB-?style=for-the-badge&logo=color&logoColor=203F46&labelColor=EBEBDB&color=EBEBDB" />
-  
-  <!-- Te Papa Green -->
-  <img src="https://img.shields.io/badge/Te%20Papa%20Green-203F46-?style=for-the-badge&logo=color&logoColor=EBEBDB&labelColor=203F46&color=203F46" />
   
   <!-- Chestnut -->
   <img src="https://img.shields.io/badge/Chestnut-BC4E46-?style=for-the-badge&logo=color&logoColor=EBEBDB&labelColor=BC4E46&color=BC4E46" />
@@ -221,10 +211,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
 
 <p align="center">
-  Made with ❤️ and 🎴 by Fatih
+  Made with ❤️ and 🎴 by fthyll
 </p>
