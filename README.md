@@ -192,7 +192,6 @@
 <p align="center">
   ✨ Building the intersection of mysticism and machine learning ✨
 </p>
----
 
 <!-- FOOTER -->
 <p align="center">
