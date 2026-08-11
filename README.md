@@ -116,6 +116,20 @@ the mystique of tarot with the intelligence of modern LLMs.
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+<img src="asset/badges/trophies.svg" alt="GitHub Trophies for fthyll" width="880"/>
+
+<br/>
+
+<sub>Generated from <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll">trophygithubreadmelang.cybee.dpdns.org</a></sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Activity
 
 <!-- Static self-hosted contribution graphs -->
