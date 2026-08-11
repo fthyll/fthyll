@@ -103,12 +103,12 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <hr>
 
 <p align="center">
-  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">&nbsp;<i><b><span style="font-size:24px">GitHub Stats</span></b></i>
+  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">&nbsp;<i><b><span style="font-size:24px">GitHub Activity</span></b></i>
   <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
 </p>
 
 <div align="center">
-  <img src="asset/img/stats-2025-xl.svg" alt="GitHub Stats - large centered panel" width="1080"/>
+  <img src="asset/img/github-activity.svg" alt="GitHub Activity - dark theme panel" width="1080"/>
 </div>
 
 <hr>
