@@ -103,12 +103,14 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <hr>
 
 <p align="center">
-  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">&nbsp;<i><b><span style="font-size:24px">GitHub Activity</span></b></i>
+  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">&nbsp;<i><b><span style="font-size:24px">GitHub Trophies</span></b></i>
   <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
 </p>
 
 <div align="center">
-  <img src="asset/img/github-activity.svg" alt="GitHub Activity - dark theme panel" width="1080"/>
+  <img src="asset/badges/trophies.svg" alt="GitHub Trophies for @fthyll" width="1080"/>
+  <br/>
+  <sub>Generated from <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll">trophygithubreadmelang.cybee.dpdns.org</a></sub>
 </div>
 
 <hr>
