@@ -108,9 +108,9 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 </p>
 
 <div align="center">
-  <img src="asset/badges/trophies.svg" alt="GitHub Trophies for @fthyll" width="1080"/>
+  <img src="asset/badges/trophies.svg" alt="GitHub Trophies for @fthyll (MultiLanguage + Followers)" width="440"/>
   <br/>
-  <sub>Generated from <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll">trophygithubreadmelang.cybee.dpdns.org</a></sub>
+  <sub>Filter: <code>title=MultiLanguage,Followers&column=2</code> · Source: <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll&title=MultiLanguage,Followers&column=2">trophygithubreadmelang.cybee.dpdns.org</a></sub>
 </div>
 
 <hr>
