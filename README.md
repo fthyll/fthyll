@@ -1,11 +1,20 @@
 <!--
-**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-All visual assets are self-hosted under `asset/` so the profile renders fast, offline-friendly, and never breaks.
+**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md`
+appears on the GitHub profile of @fthyll.
+
+All visual assets are self-hosted under `asset/` so the profile renders
+fast, offline-friendly, and never breaks due to third-party downtime.
+
+Layout:
+  asset/typing/  → animated SVG intros
+  asset/img/     → photos, GIFs, contribution grids
+  asset/badges/  → shields.io tech stack, custom CTAs, trophy snapshot
+  asset/social/  → social platform icons
 -->
 
 <div align="center">
 
-<!-- Typing intro (self-hosted, SMIL animation, ~30s loop) -->
+<!-- Animated typing intro (SMIL, ~30s loop, self-hosted) -->
 <img src="asset/typing/intro.svg" alt="Hi, I'm Muhammad Fatih — Building Tarot AI with LLMs — Creator of TarotBot" width="600"/>
 
 <!-- Profile views (self-hosted shield) -->
@@ -13,16 +22,21 @@ All visual assets are self-hosted under `asset/` so the profile renders fast, of
 
 <br/><br/>
 
-<!-- Memoji / avatar -->
-<img src="asset/memoji-1.png" width="180" alt="Memoji" />
+<!-- Avatar -->
+<img src="asset/img/memoji-1.png" width="180" alt="@fthyll"/>
 
 <br/><br/>
 
-**🌟 About Me**
+### 🌟 About Me
 
 I'm a passionate developer on a mission to bridge ancient wisdom with cutting-edge AI.
 I created **TarotBot** — an AI-powered tarot reading bot for Discord that combines
 the mystique of tarot with the intelligence of modern LLMs.
+
+🎯 **Current Focus:** Building LLM-based Tarot applications
+🌱 **Learning:** Advanced Prompt Engineering, RAG, Fine-tuning LLMs
+🔮 **Mission:** Making divination accessible with AI
+💡 **Interests:** AI/ML, NLP, Esoteric Knowledge, UX Design
 
 </div>
 
@@ -39,11 +53,11 @@ the mystique of tarot with the intelligence of modern LLMs.
 <a href="https://fthyll.github.io/tarot-bot-web/index.html">
   <img src="asset/badges/website.svg" alt="TarotBot Website"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://discord.gg/t3n9CeZV">
-  <img src="asset/badges/discord.svg" alt="Join Discord"/>
+  <img src="asset/badges/discord-join.svg" alt="Join Discord"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://discord.com/users/789065787276132392">
   <img src="asset/badges/try-tarotbot.svg" alt="Try TarotBot"/>
 </a>
@@ -73,7 +87,7 @@ the mystique of tarot with the intelligence of modern LLMs.
 ### 🎨 Featured Visual
 
 <a href="https://fthyll.github.io/tarot-bot-web/index.html">
-  <img src="asset/tarot.gif" width="240" alt="Tarot"/>
+  <img src="asset/img/tarot.gif" width="240" alt="Tarot animation"/>
 </a>
 
 </div>
@@ -118,9 +132,7 @@ the mystique of tarot with the intelligence of modern LLMs.
 
 ### 🏆 GitHub Trophies
 
-<img src="asset/badges/trophies.svg" alt="GitHub Trophies for fthyll" width="880"/>
-
-<br/>
+<img src="asset/badges/trophies.svg" alt="GitHub Trophies for @fthyll" width="880"/>
 
 <sub>Generated from <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll">trophygithubreadmelang.cybee.dpdns.org</a></sub>
 
@@ -132,18 +144,17 @@ the mystique of tarot with the intelligence of modern LLMs.
 
 ### 📊 GitHub Activity
 
-<!-- Static self-hosted contribution graphs -->
-<img src="asset/github-user-contribution-2022.svg" width="49%" alt="GitHub Contributions 2022"/>
-<img src="asset/github-user-contribution-2023.svg" width="49%" alt="GitHub Contributions 2023"/>
+<img src="asset/img/contributions-2024.svg" width="49%" alt="GitHub Contributions 2024"/>
+<img src="asset/img/contributions-2025.svg" width="49%" alt="GitHub Contributions 2025"/>
 
 <br/>
 
-<!-- Self-hosted stats snapshot (auto-updatable via GitHub Action, see note below) -->
 <img src="asset/badges/stats-snapshot.svg" alt="GitHub stats snapshot"/>
 
-<br/><br/>
+<br/>
 
-<sub>Want this card auto-updated weekly? Add a GitHub Action that pulls <code>github-readme-stats</code> via API and rewrites <code>asset/badges/stats-snapshot.svg</code>.</sub>
+<sub>Stats & contribution grids are static snapshots. Replace via
+<code>curl</code> + GitHub Action for live updates.</sub>
 
 </div>
 
