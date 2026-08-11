@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="880" height="130">
+<style>.t{font-family:"Inter",system-ui,sans-serif;fill:#203F46}.s{font-family:"Inter",system-ui,sans-serif;fill:#5b6b73;font-size:14px}</style>
+<defs><linearGradient id="g0" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fdfaf6"/><stop offset="1" stop-color="#f1e9df"/></linearGradient></defs>
+<rect x="10" y="10" width="200" height="110" rx="14" ry="14" fill="url(#g0)" stroke="#e7d6c4" stroke-width="1"/>
+<text x="110.0" y="56" font-size="34" text-anchor="middle">🃏</text>
+<text x="110.0" y="86" class="t" font-size="20" font-weight="700" text-anchor="middle">78 Cards</text>
+<text x="110.0" y="106" class="s" text-anchor="middle">Rider-Waite-Smith deck</text>
+<defs><linearGradient id="g1" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fdfaf6"/><stop offset="1" stop-color="#f1e9df"/></linearGradient></defs>
+<rect x="230" y="10" width="200" height="110" rx="14" ry="14" fill="url(#g1)" stroke="#e7d6c4" stroke-width="1"/>
+<text x="330.0" y="56" font-size="34" text-anchor="middle">🎯</text>
+<text x="330.0" y="86" class="t" font-size="20" font-weight="700" text-anchor="middle">11 Spreads</text>
+<text x="330.0" y="106" class="s" text-anchor="middle">Single to Celtic Cross</text>
+<defs><linearGradient id="g2" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fdfaf6"/><stop offset="1" stop-color="#f1e9df"/></linearGradient></defs>
+<rect x="450" y="10" width="200" height="110" rx="14" ry="14" fill="url(#g2)" stroke="#e7d6c4" stroke-width="1"/>
+<text x="550.0" y="56" font-size="34" text-anchor="middle">🧠</text>
+<text x="550.0" y="86" class="t" font-size="20" font-weight="700" text-anchor="middle">30+ AI Models</text>
+<text x="550.0" y="106" class="s" text-anchor="middle">9Router integration</text>
+<defs><linearGradient id="g3" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fdfaf6"/><stop offset="1" stop-color="#f1e9df"/></linearGradient></defs>
+<rect x="670" y="10" width="200" height="110" rx="14" ry="14" fill="url(#g3)" stroke="#e7d6c4" stroke-width="1"/>
+<text x="770.0" y="56" font-size="34" text-anchor="middle">🌍</text>
+<text x="770.0" y="86" class="t" font-size="20" font-weight="700" text-anchor="middle">2 Languages</text>
+<text x="770.0" y="106" class="s" text-anchor="middle">ID & EN, fully bilingual</text>
+</svg>
