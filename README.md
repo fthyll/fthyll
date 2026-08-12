@@ -149,6 +149,10 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <hr>
 
+<div align="center">
+  <img src="asset/img/decor/space-shooter.gif" alt="space shooter mini-game" width="400"/>
+</div>
+
 <p>Credits: inspired by <a href="https://github.com/Akash-chowrasia">Akash Chowrasia</a>'s profile README. Personalised for Muhammad Fatih.</p>
 
 <p>Last edited: 2026-08-12</p>
