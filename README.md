@@ -129,19 +129,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
         <img src="https://img.shields.io/badge/AI-FF6B35?style=flat&logo=openai&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <a href="https://github.com/fthyll/playground-macos">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🖥️+macOS+Playground" width="200" alt="Playground macOS"/>
-        </a>
-        <br>
-        <strong>🖥️ Playground macOS</strong>
-        <br>
-        <em>Portfolio website simulating macOS GUI</em>
-        <br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white"/>
-      </td>
-      <td align="center" width="300">
         <a href="https://github.com/fthyll/getoo-earthquake">
           <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🌍+Earthquake" width="200" alt="Getoo Earthquake"/>
         </a>
