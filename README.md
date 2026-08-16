@@ -26,16 +26,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   <a href="https://discord.gg/t3n9CeZV" target="_blank"><img src="asset/social/discord.svg" alt="Discord" height="30" width="40"></a>
 </p>
 
-<!-- ==================== SUPPORT LINKS ==================== -->
-<p align="center">
-  <a href="https://ko-fi.com/vv3yy" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Support me on Ko-fi" height="40" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-</p>
-
-<p></p>
-
 <!-- ==================== BIO ==================== -->
 <p align="center">
   <em>
@@ -117,7 +107,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
     <tr>
       <td align="center" width="300">
         <a href="https://github.com/fthyll/TAROT-BOT">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🔮+TarotBot" width="200" alt="TarotBot"/>
+          <img src="./asset/img/Tarotbot.png" width="200" alt="TarotBot"/>
         </a>
         <br>
         <strong>🔮 TarotBot</strong>
@@ -130,7 +120,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
       </td>
       <td align="center" width="300">
         <a href="https://github.com/fthyll/getoo-earthquake">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🌍+Earthquake" width="200" alt="Getoo Earthquake"/>
+          <img src="./asset/img/getoo.jpg" width="200" alt="Getoo Earthquake"/>
         </a>
         <br>
         <strong>🌍 Getoo Earthquake</strong>
@@ -200,29 +190,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <br>
 
-<!-- ==================== SKILL LEVEL ==================== -->
-<h2 align="center">📊 Skill Level</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>⭐ Expert</strong></td>
-      <td>Python, JavaScript, Discord.js, PyTorch, FastAPI</td>
-    </tr>
-    <tr>
-      <td><strong>⭐⭐ Proficient</strong></td>
-      <td>TypeScript, React, Node.js, Docker, AWS, Rust</td>
-    </tr>
-    <tr>
-      <td><strong>⭐ Learning</strong></td>
-      <td>Go, GraphQL, Hadoop, TensorFlow, LLM Orchestration</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-
 <!-- ==================== GITHUB TROPHIES ==================== -->
 <p align="center">
   <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
@@ -284,9 +251,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   </a>
   <a href="https://github.com/sponsors/fthyll">
     <img src="https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/fthyll">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
   </a>
 </div>
 
