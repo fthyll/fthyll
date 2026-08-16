@@ -45,7 +45,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <p align="left"> <img src="asset/badges/profile-views.svg" alt="@fthyll profile views"> </p>
 
 <!-- ==================== ABOUT ME ==================== -->
-<img align="right" width="300px" alt="Unicorn coding" src="asset/img/decor/unicorn.gif">
+<img align="right" width="150px" alt="Unicorn coding" src="asset/img/decor/unicorn.gif">
 
 <p><img src="asset/img/decor/sparkle.gif" width="20px" alt="sparkle">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
