@@ -82,11 +82,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   </tr>
   <tr>
     <td>✔</td>
-    <td>I regularly write articles on <a href="https://dev.to/fthyll">Dev.to</a></td>
-  </tr>
-  <tr>
-    <td>✔</td>
-    <td>I work on tarot decks &amp; spreads at <a href="https://fthyll.github.io/tarot-bot-web/index.html">fthyll.github.io/tarot-bot-web</a></td>
+    <td>I work on tarot decks &amp; spreads at <a href="https://tarot-bot-project.web.app">https://tarot-bot-project.web.app</a></td>
   </tr>
   <tr>
     <td>✔</td>
@@ -102,11 +98,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <!-- ==================== GITHUB STATS ==================== -->
 <h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fthyll&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyll&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fthyll&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -151,45 +142,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
         <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <a href="https://github.com/fthyll/Roblox-Server-Tracker">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🎮+Roblox+Tracker" width="200" alt="Roblox Server Tracker"/>
-        </a>
-        <br>
-        <strong>🎮 Roblox Server Tracker</strong>
-        <br>
-        <em>Real-time Roblox server monitoring for Discord</em>
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/API-FF6B35?style=flat&logo=roblox&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://github.com/fthyll/Auto-Fill-Survey-iGracias">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🤖+Auto-Fill" width="200" alt="Auto Fill Survey"/>
-        </a>
-        <br>
-        <strong>🤖 Auto-Fill Survey</strong>
-        <br>
-        <em>Automate university survey filling</em>
-        <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-      </td>
-      <td align="center" width="300">
-        <a href="https://github.com/fthyll/TAROT-Rust-Project">
-          <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🦀+Tarot+Rust" width="200" alt="Tarot Rust"/>
-        </a>
-        <br>
-        <strong>🦀 Tarot Rust</strong>
-        <br>
-        <em>High-performance tarot engine in Rust</em>
-        <br>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Performance-FF6B35?style=flat&logo=rocket&logoColor=white"/>
-      </td>
-      <td align="center" width="300">
         <a href="https://github.com/fthyll/getoo-earthquake">
           <img src="https://via.placeholder.com/200x120/1a1a2e/ffffff?text=🌍+Earthquake" width="200" alt="Getoo Earthquake"/>
         </a>
@@ -201,40 +153,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/API-FF6B35?style=flat&logo=openapi&logoColor=white"/>
       </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- ==================== CONTRIBUTION METRICS ==================== -->
-<h2 align="center">📈 Contribution Metrics</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>📦 Total Repos</td>
-      <td><strong>90</strong></td>
-      <td>⭐ Stars Received</td>
-      <td><strong>XX</strong></td>
-    </tr>
-    <tr>
-      <td>🔄 Total Commits</td>
-      <td><strong>XX</strong></td>
-      <td>🤝 PRs Merged</td>
-      <td><strong>XX</strong></td>
-    </tr>
-    <tr>
-      <td>🐛 Issues Opened</td>
-      <td><strong>XX</strong></td>
-      <td>🔀 Forks</td>
-      <td><strong>XX</strong></td>
-    </tr>
-    <tr>
-      <td>👥 Followers</td>
-      <td><strong>11</strong></td>
-      <td>📚 Following</td>
-      <td><strong>13</strong></td>
     </tr>
   </table>
 </div>
@@ -317,76 +235,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <br>
 
-<!-- ==================== LATEST BLOG POSTS ==================== -->
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>📄</td>
-      <td><a href="https://dev.to/fthyll">Building AI Tarot Reader with LLM</a></td>
-      <td>🔖 <code>#ai</code> <code>#tarot</code> <code>#discord</code></td>
-    </tr>
-    <tr>
-      <td>📄</td>
-      <td><a href="https://dev.to/fthyll">Rust vs Python for Discord Bots</a></td>
-      <td>🔖 <code>#rust</code> <code>#python</code> <code>#performance</code></td>
-    </tr>
-    <tr>
-      <td>📄</td>
-      <td><a href="https://dev.to/fthyll">RAG Pipelines for Beginners</a></td>
-      <td>🔖 <code>#rag</code> <code>#llm</code> <code>#ai</code></td>
-    </tr>
-    <tr>
-      <td>📄</td>
-      <td><a href="https://dev.to/fthyll">Production-grade AI Infrastructure Tips</a></td>
-      <td>🔖 <code>#devops</code> <code>#ai</code> <code>#infrastructure</code></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- ==================== COLLABORATIONS ==================== -->
-<h2 align="center">🤝 Collaborative Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/Vey-Project">
-          <img src="https://via.placeholder.com/80x80/1a1a2e/ffffff?text=VP" width="80" alt="Vey Project"/>
-        </a>
-        <br>
-        <strong>Vey Project</strong>
-        <br>
-        <em>Organization Member</em>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/Tomato6966">
-          <img src="https://via.placeholder.com/80x80/1a1a2e/ffffff?text=🍅" width="80" alt="Tomato6966"/>
-        </a>
-        <br>
-        <strong>Tomato6966</strong>
-        <br>
-        <em>Contributor</em>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/fthyll">
-          <img src="https://via.placeholder.com/80x80/1a1a2e/ffffff?text=🎯" width="80" alt="Open Source"/>
-        </a>
-        <br>
-        <strong>Open Source</strong>
-        <br>
-        <em>Contributor</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<hr>
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 <p align="center">
