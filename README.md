@@ -47,7 +47,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <!-- ==================== ABOUT ME ==================== -->
 <img align="right" width="300px" alt="Unicorn coding" src="asset/img/decor/unicorn.gif">
 
-<p><img src="asset/img/decor/sparkle.gif" width="30px" alt="sparkle">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
+<p><img src="asset/img/decor/sparkle.gif" width="20px" alt="sparkle">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
 <table>
   <tr>
