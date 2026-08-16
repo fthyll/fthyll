@@ -14,19 +14,32 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <h1 align="center">Hi <img src="asset/img/decor/wave.gif" width="30px">, I'm Muhammad Fatih</h1>
 <h3 align="center">AI Engineer · TarotBot Creator · Discord Bot Builder</h3>
 
+<!-- ==================== SOCIAL LINKS ==================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman-25april2003" target="_blank"><img align="center" src="asset/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://twitter.com/fthyll" target="_blank"><img align="center" src="asset/social/twitter.svg" alt="Twitter" height="30" width="40"></a>
-  <a href="https://dev.to/fthyll" target="_blank"><img align="center" src="asset/social/devto.svg" alt="Dev.to" height="30" width="40"></a>
-  <a href="https://stackoverflow.com/users/18449017" target="_blank"><img align="center" src="asset/social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
-  <a href="https://codepen.io/fthyll" target="_blank"><img align="center" src="asset/social/codepen.svg" alt="CodePen" height="30" width="40"></a>
-  <a href="https://www.youtube.com/c/@center.2504" target="_blank"><img align="center" src="asset/social/youtube.svg" alt="YouTube" height="30" width="40"></a>
-  <a href="https://instagram.com/fthyll.0425" target="_blank"><img align="center" src="asset/social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-  <a href="https://discord.gg/t3n9CeZV" target="_blank"><img align="center" src="asset/social/discord.svg" alt="Discord" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman-25april2003" target="_blank"><img src="asset/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+  <a href="https://twitter.com/fthyll" target="_blank"><img src="asset/social/twitter.svg" alt="Twitter" height="30" width="40"></a>
+  <a href="https://dev.to/fthyll" target="_blank"><img src="asset/social/devto.svg" alt="Dev.to" height="30" width="40"></a>
+  <a href="https://stackoverflow.com/users/18449017" target="_blank"><img src="asset/social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
+  <a href="https://codepen.io/fthyll" target="_blank"><img src="asset/social/codepen.svg" alt="CodePen" height="30" width="40"></a>
+  <a href="https://www.youtube.com/c/@center.2504" target="_blank"><img src="asset/social/youtube.svg" alt="YouTube" height="30" width="40"></a>
+  <a href="https://instagram.com/fthyll.0425" target="_blank"><img src="asset/social/instagram.svg" alt="Instagram" height="30" width="40"></a>
+  <a href="https://discord.gg/t3n9CeZV" target="_blank"><img src="asset/social/discord.svg" alt="Discord" height="30" width="40"></a>
+</p>
+
+<!-- ==================== SUPPORT LINKS ==================== -->
+<p align="center">
+  <a href="https://ko-fi.com/vv3yy" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Support me on Ko-fi" height="40" width="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://top.gg/bot/1458047428711153716" target="_blank">
+    <img src="https://top.gg/api/widget/1458047428711153716.svg" alt="Top.gg" width="500">
+  </a>
 </p>
 
 <p></p>
 
+<!-- ==================== BIO ==================== -->
 <p align="center">
   <em>
     This is ME, Muhammad Fatih, a <b>final-year</b> <b>informatics engineering</b> student
@@ -44,80 +57,136 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <p align="left"> <img src="asset/badges/profile-views.svg" alt="@fthyll profile views"> </p>
 
+<!-- ==================== ABOUT ME ==================== -->
 <img align="right" width="300px" alt="Unicorn" src="asset/img/decor/unicorn.gif">
 
 <p><img src="asset/img/decor/sparkle.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
-<p>
-✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>Fatih</strong></em> 😉<br>
-✔ I'm currently building <strong>TarotBot</strong> — AI Tarot Reader for Discord <strong>@fthyll</strong><br>
-✔ I'm currently learning <strong>LLM Orchestration</strong> &amp; <strong>RAG Pipelines</strong><br>
-✔ I'm looking to collaborate on <strong>Open-Source LLM tools</strong> &amp; <strong>Discord bots</strong><br>
-✔ I'm looking for help with <strong>Production-grade AI infrastructure</strong><br>
-✔ I regularly write articles on <a href="https://dev.to/fthyll">Dev.to</a><br>
-✔ I work on tarot decks &amp; spreads at <a href="https://fthyll.github.io/tarot-bot-web/index.html">fthyll.github.io/tarot-bot-web</a><br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
-✔ Fun fact: <em>At the time of stress coding, I use to read tarot cards for debugging hints 🃏</em>
-</p>
+<table>
+  <tr>
+    <td>✔</td>
+    <td>Pronouns: <em><strong>He/His</strong></em> or <em><strong>Fatih</strong></em> 😉</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I'm currently building <strong>TarotBot</strong> — AI Tarot Reader for Discord <strong>@fthyll</strong></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I'm currently learning <strong>LLM Orchestration</strong> &amp; <strong>RAG Pipelines</strong></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I'm looking to collaborate on <strong>Open-Source LLM tools</strong> &amp; <strong>Discord bots</strong></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I'm looking for help with <strong>Production-grade AI infrastructure</strong></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I regularly write articles on <a href="https://dev.to/fthyll">Dev.to</a></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>I work on tarot decks &amp; spreads at <a href="https://fthyll.github.io/tarot-bot-web/index.html">fthyll.github.io/tarot-bot-web</a></td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Ask me about anything, I am happy to help, only if the ball is in my court! 😉</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Fun fact: <em>At the time of stress coding, I use to read tarot cards for debugging hints 🃏</em></td>
+  </tr>
+</table>
 
+<br clear="right">
+
+<!-- ==================== TECH STACK ==================== -->
 <p><img src="asset/img/decor/sparkle.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
 
-<p align="left">
-<code><img height="50" src="asset/tech/python.svg"></code>
-<code><img height="50" src="asset/tech/pytorch.svg"></code>
-<code><img height="50" src="asset/tech/tensorflow.svg"></code>
-<code><img height="50" src="asset/tech/go.svg"></code>
-<code><img height="50" src="asset/tech/fastapi.svg"></code>
-<code><img height="50" src="asset/tech/flask.svg"></code>
-<code><img height="50" src="asset/tech/django.svg"></code>
-<code><img height="50" src="asset/tech/javascript.svg"></code>
-<code><img height="50" src="asset/tech/typescript.svg"></code>
-<code><img height="50" src="asset/tech/react.svg"></code>
-<code><img height="50" src="asset/tech/nodejs.svg"></code>
-<code><img height="50" src="asset/tech/express.svg"></code>
-<code><img height="50" src="asset/tech/html5.svg"></code>
-<code><img height="50" src="asset/tech/css3.svg"></code>
-<code><img height="50" src="asset/tech/sass.svg"></code>
-<code><img height="50" src="asset/tech/docker.svg"></code>
-<code><img height="50" src="asset/tech/git.svg"></code>
-<code><img height="50" src="asset/tech/linux.svg"></code>
-<code><img height="50" src="asset/tech/mongodb.svg"></code>
-<code><img height="50" src="asset/tech/postgresql.svg"></code>
-<code><img height="50" src="asset/tech/mysql.svg"></code>
-<code><img height="50" src="asset/tech/sqlite.svg"></code>
-<code><img height="50" src="asset/tech/opencv.svg"></code>
-<code><img height="50" src="asset/tech/numpy.svg"></code>
-<code><img height="50" src="asset/tech/pandas.svg"></code>
-<code><img height="50" src="asset/tech/selenium.svg"></code>
-<code><img height="50" src="asset/tech/figma.svg"></code>
-<code><img height="50" src="asset/tech/discordjs.svg"></code>
-<code><img height="50" src="asset/tech/graphql.svg"></code>
-<code><img height="50" src="asset/tech/aws.svg"></code>
-<code><img height="50" src="asset/tech/gcp.svg"></code>
-<code><img height="50" src="asset/tech/java.svg"></code>
-<code><img height="50" src="asset/tech/c.svg"></code>
-<code><img height="50" src="asset/tech/cplusplus.svg"></code>
-<code><img height="50" src="asset/tech/hadoop.svg"></code>
+<p align="center">
+  <!-- AI/ML -->
+  <img src="asset/tech/python.svg" height="45" title="Python">
+  <img src="asset/tech/pytorch.svg" height="45" title="PyTorch">
+  <img src="asset/tech/tensorflow.svg" height="45" title="TensorFlow">
+  <img src="asset/tech/opencv.svg" height="45" title="OpenCV">
+  <img src="asset/tech/numpy.svg" height="45" title="NumPy">
+  <img src="asset/tech/pandas.svg" height="45" title="Pandas">
+  
+  <!-- Backend -->
+  <img src="asset/tech/go.svg" height="45" title="Go">
+  <img src="asset/tech/fastapi.svg" height="45" title="FastAPI">
+  <img src="asset/tech/flask.svg" height="45" title="Flask">
+  <img src="asset/tech/django.svg" height="45" title="Django">
+  <img src="asset/tech/nodejs.svg" height="45" title="Node.js">
+  <img src="asset/tech/express.svg" height="45" title="Express">
+  
+  <!-- Frontend -->
+  <img src="asset/tech/javascript.svg" height="45" title="JavaScript">
+  <img src="asset/tech/typescript.svg" height="45" title="TypeScript">
+  <img src="asset/tech/react.svg" height="45" title="React">
+  <img src="asset/tech/html5.svg" height="45" title="HTML5">
+  <img src="asset/tech/css3.svg" height="45" title="CSS3">
+  <img src="asset/tech/sass.svg" height="45" title="Sass">
+  
+  <!-- Database -->
+  <img src="asset/tech/mongodb.svg" height="45" title="MongoDB">
+  <img src="asset/tech/postgresql.svg" height="45" title="PostgreSQL">
+  <img src="asset/tech/mysql.svg" height="45" title="MySQL">
+  <img src="asset/tech/sqlite.svg" height="45" title="SQLite">
+  
+  <!-- DevOps & Cloud -->
+  <img src="asset/tech/docker.svg" height="45" title="Docker">
+  <img src="asset/tech/git.svg" height="45" title="Git">
+  <img src="asset/tech/linux.svg" height="45" title="Linux">
+  <img src="asset/tech/aws.svg" height="45" title="AWS">
+  <img src="asset/tech/gcp.svg" height="45" title="GCP">
+  
+  <!-- Others -->
+  <img src="asset/tech/selenium.svg" height="45" title="Selenium">
+  <img src="asset/tech/figma.svg" height="45" title="Figma">
+  <img src="asset/tech/discordjs.svg" height="45" title="Discord.js">
+  <img src="asset/tech/graphql.svg" height="45" title="GraphQL">
+  <img src="asset/tech/java.svg" height="45" title="Java">
+  <img src="asset/tech/c.svg" height="45" title="C">
+  <img src="asset/tech/cplusplus.svg" height="45" title="C++">
+  <img src="asset/tech/hadoop.svg" height="45" title="Hadoop">
 </p>
 
 <hr>
 
+<!-- ==================== GITHUB TROPHIES ==================== -->
 <p align="center">
-  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">&nbsp;<i><b><span style="font-size:24px">GitHub Trophies</span></b></i>
+  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
+  <b><span style="font-size:24px">GitHub Trophies</span></b>
   <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
 </p>
 
 <div align="center">
-  <img src="asset/badges/trophies.svg" alt="GitHub Trophies for @fthyll (MultiLanguage, Repositories, Commits, Experience, Stars, Followers)" width="680"/>
+  <img src="asset/badges/trophies.svg" alt="GitHub Trophies" width="700"/>
   <br/>
-  <sub>Filter: <code>title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers</code> · Source: <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=fthyll&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers">trophygithubreadmelang.cybee.dpdns.org</a></sub>
+  <sub>Filter: <code>title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers</code></sub>
 </div>
 
 <hr>
 
-<p>Here are some <a href="https://cultofthepartyparrot.com">🦜 parrots</a> for fun:</p>
+<!-- ==================== TOP.GG WIDGET FULL SIZE ==================== -->
+<div align="center">
+  <a href="https://top.gg/bot/1458047428711153716" target="_blank">
+    <img src="https://top.gg/api/widget/1458047428711153716.svg" alt="TarotBot on Top.gg" width="600">
+  </a>
+</div>
 
-<div>
+<br>
+
+<!-- ==================== PARROTS ==================== -->
+<p align="center">
+  <b>🦜 Parrots for fun 🦜</b>
+</p>
+
+<p align="center">
   <img src="asset/img/parrot/githubparrot.gif" width="30" height="30">
   <img src="asset/img/parrot/indiaparrot.gif" width="30" height="30">
   <img src="asset/img/parrot/asyncparrot.gif" width="36" height="30">
@@ -131,13 +200,16 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   <img src="asset/img/parrot/moonwalkingparrot.gif" width="30" height="30">
   <img src="asset/img/parrot/scienceparrot.gif" width="30" height="30">
   <img src="asset/img/parrot/pirateparrot.gif" width="30" height="30">
-</div>
+</p>
 
 <hr>
 
-<h4 id="want-to-build-your-own">Want to Build Your Own?</h4>
+<!-- ==================== FOOTER ==================== -->
+<h4>Want to Build Your Own?</h4>
 
-<p>Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called <strong>Profile READMEs</strong>. For it to work, do the following:</p>
+<p>
+  Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called <strong>Profile READMEs</strong>. For it to work, do the following:
+</p>
 
 <ol>
   <li>Create a <em>special</em> GitHub repository with your username as repository name. My username is <code>fthyll</code>, so my profile README repository has the name <code>fthyll</code>.</li>
@@ -153,6 +225,11 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   <img src="asset/img/decor/space-shooter.gif" alt="space shooter mini-game" width="400"/>
 </div>
 
-<p>Credits: inspired by <a href="https://github.com/Akash-chowrasia">Akash Chowrasia</a>'s profile README. Personalised for Muhammad Fatih.</p>
-
-<p>Last edited: 2026-08-12</p>
+<p align="center">
+  <sub>
+    Credits: inspired by <a href="https://github.com/Akash-chowrasia">Akash Chowrasia</a>'s profile README.
+    Personalised for Muhammad Fatih.
+  </sub>
+  <br>
+  <sub>Last edited: 2026-08-12</sub>
+</p>
