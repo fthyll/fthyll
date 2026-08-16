@@ -216,28 +216,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <br>
 
-<!-- ==================== PARROTS ==================== -->
-<p align="center">
-  <b>🦜 Parrots for fun 🦜</b>
-</p>
-
-<p align="center">
-  <img src="asset/img/parrot/githubparrot.gif" width="30" height="30" alt="GitHub Parrot">
-  <img src="asset/img/parrot/indiaparrot.gif" width="30" height="30" alt="India Parrot">
-  <img src="asset/img/parrot/asyncparrot.gif" width="36" height="30" alt="Async Parrot">
-  <img src="asset/img/parrot/60fpsparrot.gif" width="30" height="30" alt="60fps Parrot">
-  <img src="asset/img/parrot/jumpingparrot.gif" width="30" height="30" alt="Jumping Parrot">
-  <img src="asset/img/parrot/opensourceparrot.gif" width="30" height="30" alt="Open Source Parrot">
-  <img src="asset/img/parrot/dealwithitnowparrot.gif" width="30" height="30" alt="Deal With It Parrot">
-  <img src="asset/img/parrot/databaseparrot.gif" width="30" height="30" alt="Database Parrot">
-  <img src="asset/img/parrot/fixparrot.gif" width="36" height="30" alt="Fix Parrot">
-  <img src="asset/img/parrot/spinningparrot.gif" width="30" height="30" alt="Spinning Parrot">
-  <img src="asset/img/parrot/moonwalkingparrot.gif" width="30" height="30" alt="Moonwalking Parrot">
-  <img src="asset/img/parrot/scienceparrot.gif" width="30" height="30" alt="Science Parrot">
-  <img src="asset/img/parrot/pirateparrot.gif" width="30" height="30" alt="Pirate Parrot">
-</p>
-
-<hr>
 
 <!-- ==================== SUPPORT ==================== -->
 <h2 align="center">☕ Support Me</h2>
@@ -287,12 +265,3 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <div align="center">
   <img src="asset/img/decor/space-shooter.gif" alt="space shooter mini-game" width="400"/>
 </div>
-
-<p align="center">
-  <sub>
-    Credits: inspired by <a href="https://github.com/Akash-chowrasia">Akash Chowrasia</a>'s profile README.
-    Personalised for Muhammad Fatih.
-  </sub>
-  <br>
-  <sub>Last edited: 2026-08-16</sub>
-</p>
