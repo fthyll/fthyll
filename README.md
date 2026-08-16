@@ -18,26 +18,16 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman-25april2003" target="_blank"><img src="asset/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
   <a href="https://twitter.com/fthyll" target="_blank"><img src="asset/social/twitter.svg" alt="Twitter" height="30" width="40"></a>
-  <a href="https://dev.to/fthyll" target="_blank"><img src="asset/social/devto.svg" alt="Dev.to" height="30" width="40"></a>
   <a href="https://stackoverflow.com/users/18449017" target="_blank"><img src="asset/social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
   <a href="https://codepen.io/fthyll" target="_blank"><img src="asset/social/codepen.svg" alt="CodePen" height="30" width="40"></a>
-  <a href="https://www.youtube.com/c/@center.2504" target="_blank"><img src="asset/social/youtube.svg" alt="YouTube" height="30" width="40"></a>
   <a href="https://instagram.com/fthyll.0425" target="_blank"><img src="asset/social/instagram.svg" alt="Instagram" height="30" width="40"></a>
   <a href="https://discord.gg/t3n9CeZV" target="_blank"><img src="asset/social/discord.svg" alt="Discord" height="30" width="40"></a>
 </p>
 
 <!-- ==================== SUPPORT LINKS ==================== -->
 <p align="center">
-  <a href="https://ko-fi.com/vv3yy" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Support me on Ko-fi" height="40" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://top.gg/bot/1458047428711153716" target="_blank">
-    <img src="https://top.gg/api/widget/1458047428711153716.svg" alt="Top.gg" width="500">
-  </a>
+  <a href="https://ko-fi.com/vv3yy" target="_blank"><strong>☕ Support my work on Ko-fi</strong></a>
 </p>
-
-<p></p>
 
 <!-- ==================== BIO ==================== -->
 <p align="center">
@@ -85,7 +75,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   </tr>
   <tr>
     <td>✔</td>
-    <td>I regularly write articles on <a href="https://dev.to/fthyll">Dev.to</a></td>
+    <td>I share my work and experiments on <a href="https://github.com/fthyll">GitHub</a></td>
   </tr>
   <tr>
     <td>✔</td>
@@ -103,56 +93,33 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <br clear="right">
 
-<!-- ==================== TECH STACK ==================== -->
-<p><img src="asset/img/decor/sparkle.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [TarotBot](https://fthyll.github.io/tarot-bot-web/index.html) | An AI-powered tarot-reading experience for Discord. | Discord · AI/LLM · Web |
+| [Earthquake Discord Bot](https://github.com/fthyll/getoo-earthquake) | Delivers real-time USGS and BMKG earthquake alerts, configurable per Discord server. | Python · Discord · Mapbox |
+| [World Cup Final Predictor](https://github.com/fthyll/world-cup-final-predictor-spain-vs-argentina) | Uses Elo ratings and Poisson modelling on 51k+ historical matches to estimate match outcomes. | Python · Pandas · NumPy |
 
 <p align="center">
-  <!-- AI/ML -->
-  <img src="asset/tech/python.svg" height="45" title="Python">
-  <img src="asset/tech/pytorch.svg" height="45" title="PyTorch">
-  <img src="asset/tech/tensorflow.svg" height="45" title="TensorFlow">
-  <img src="asset/tech/opencv.svg" height="45" title="OpenCV">
-  <img src="asset/tech/numpy.svg" height="45" title="NumPy">
-  <img src="asset/tech/pandas.svg" height="45" title="Pandas">
-  
-  <!-- Backend -->
-  <img src="asset/tech/go.svg" height="45" title="Go">
-  <img src="asset/tech/fastapi.svg" height="45" title="FastAPI">
-  <img src="asset/tech/flask.svg" height="45" title="Flask">
-  <img src="asset/tech/django.svg" height="45" title="Django">
-  <img src="asset/tech/nodejs.svg" height="45" title="Node.js">
-  <img src="asset/tech/express.svg" height="45" title="Express">
-  
-  <!-- Frontend -->
-  <img src="asset/tech/javascript.svg" height="45" title="JavaScript">
-  <img src="asset/tech/typescript.svg" height="45" title="TypeScript">
-  <img src="asset/tech/react.svg" height="45" title="React">
-  <img src="asset/tech/html5.svg" height="45" title="HTML5">
-  <img src="asset/tech/css3.svg" height="45" title="CSS3">
-  <img src="asset/tech/sass.svg" height="45" title="Sass">
-  
-  <!-- Database -->
-  <img src="asset/tech/mongodb.svg" height="45" title="MongoDB">
-  <img src="asset/tech/postgresql.svg" height="45" title="PostgreSQL">
-  <img src="asset/tech/mysql.svg" height="45" title="MySQL">
-  <img src="asset/tech/sqlite.svg" height="45" title="SQLite">
-  
-  <!-- DevOps & Cloud -->
-  <img src="asset/tech/docker.svg" height="45" title="Docker">
-  <img src="asset/tech/git.svg" height="45" title="Git">
-  <img src="asset/tech/linux.svg" height="45" title="Linux">
-  <img src="asset/tech/aws.svg" height="45" title="AWS">
-  <img src="asset/tech/gcp.svg" height="45" title="GCP">
-  
-  <!-- Others -->
-  <img src="asset/tech/selenium.svg" height="45" title="Selenium">
-  <img src="asset/tech/figma.svg" height="45" title="Figma">
-  <img src="asset/tech/discordjs.svg" height="45" title="Discord.js">
-  <img src="asset/tech/graphql.svg" height="45" title="GraphQL">
-  <img src="asset/tech/java.svg" height="45" title="Java">
-  <img src="asset/tech/c.svg" height="45" title="C">
-  <img src="asset/tech/cplusplus.svg" height="45" title="C++">
-  <img src="asset/tech/hadoop.svg" height="45" title="Hadoop">
+  <a href="https://top.gg/bot/1458047428711153716" target="_blank"><strong>Try TarotBot on Top.gg →</strong></a>
+</p>
+
+<!-- ==================== TECH STACK ==================== -->
+<p><em><strong>Core Stack</strong></em></p>
+
+<p align="center">
+  <img src="asset/tech/python.svg" height="45" title="Python" alt="Python">
+  <img src="asset/tech/pytorch.svg" height="45" title="PyTorch" alt="PyTorch">
+  <img src="asset/tech/tensorflow.svg" height="45" title="TensorFlow" alt="TensorFlow">
+  <img src="asset/tech/pandas.svg" height="45" title="Pandas" alt="Pandas">
+  <img src="asset/tech/fastapi.svg" height="45" title="FastAPI" alt="FastAPI">
+  <img src="asset/tech/nodejs.svg" height="45" title="Node.js" alt="Node.js">
+  <img src="asset/tech/discordjs.svg" height="45" title="Discord.js" alt="Discord.js">
+  <img src="asset/tech/postgresql.svg" height="45" title="PostgreSQL" alt="PostgreSQL">
+  <img src="asset/tech/docker.svg" height="45" title="Docker" alt="Docker">
+  <img src="asset/tech/git.svg" height="45" title="Git" alt="Git">
 </p>
 
 <hr>
@@ -161,7 +128,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <p align="center">
   <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
   <b><span style="font-size:24px">GitHub Trophies</span></b>
-  <img src="asset/img/decor/status.gif" width="40px" alt="GitHub-Status">
 </p>
 
 <div align="center">
@@ -171,15 +137,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 </div>
 
 <hr>
-
-<!-- ==================== TOP.GG WIDGET FULL SIZE ==================== -->
-<div align="center">
-  <a href="https://top.gg/bot/1458047428711153716" target="_blank">
-    <img src="https://top.gg/api/widget/1458047428711153716.svg" alt="TarotBot on Top.gg" width="600">
-  </a>
-</div>
-
-<br>
 
 <!-- ==================== PARROTS ==================== -->
 <p align="center">
@@ -231,5 +188,5 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
     Personalised for Muhammad Fatih.
   </sub>
   <br>
-  <sub>Last edited: 2026-08-12</sub>
+  <sub>Last edited: 2026-08-16</sub>
 </p>
