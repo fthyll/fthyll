@@ -6,7 +6,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 -->
 
 <p align="center">
-  <img src="asset/img/memoji-1.png" height="200" alt="Memoji avatar of Muhammad Fatih">
+  <img src="asset/img/Hero character.png" height="200" alt="Memoji avatar of Muhammad Fatih">
 </p>
 
 <hr>
@@ -42,10 +42,9 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   <img src="asset/img/decor/hope.gif" width="50" alt="hope"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="asset/img/decor/thinking.gif" width="50" alt="thinking">
 </p>
 
-<p align="left"> <img src="asset/badges/profile-views.svg" alt="@fthyll profile views"> </p>
-
 <!-- ==================== ABOUT ME ==================== -->
-<img align="right" width="150px" alt="Unicorn coding" src="asset/img/decor/unicorn.gif">
+<img align="right" width="150px" alt="Vey GF" src="asset/img/decor/vey-gf.png">
+<p align="right"><sub><em>my girlfriend btw 💖</em></sub></p>
 
 <p><img src="asset/img/decor/sparkle.gif" width="20px" alt="sparkle">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
@@ -80,7 +79,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   </tr>
   <tr>
     <td>✔</td>
-    <td>Fun fact: <em>At the time of stress coding, I use to read tarot cards for debugging hints 🃏</em></td>
+    <td>Fun fact: <em>At the time of stress coding, I read tarot cards for debugging hints 🃏</em></td>
   </tr>
 </table>
 
@@ -90,10 +89,9 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fthyll&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
+  <!-- Streak: was Heroku (dead since Nov 2022). Replaced with active fork. -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fthyll&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fthyll&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
@@ -138,55 +136,62 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 
 <!-- ==================== TECH STACK ==================== -->
 <h2 align="center">🛠️ Languages &amp; Tools I Know</h2>
+<p align="center"><sub><em>Daily drivers &amp; tools I've shipped to production.</em></sub></p>
 
 <p align="center">
-  <!-- AI/ML -->
+  <!-- AI/ML — primary stack for TarotBot & LLM work -->
   <img src="asset/tech/python.svg" height="45" title="Python">
   <img src="asset/tech/pytorch.svg" height="45" title="PyTorch">
   <img src="asset/tech/tensorflow.svg" height="45" title="TensorFlow">
   <img src="asset/tech/opencv.svg" height="45" title="OpenCV">
   <img src="asset/tech/numpy.svg" height="45" title="NumPy">
   <img src="asset/tech/pandas.svg" height="45" title="Pandas">
-  
-  <!-- Backend -->
-  <img src="asset/tech/go.svg" height="45" title="Go">
+
+  <!-- Backend — APIs & services -->
   <img src="asset/tech/fastapi.svg" height="45" title="FastAPI">
   <img src="asset/tech/flask.svg" height="45" title="Flask">
-  <img src="asset/tech/django.svg" height="45" title="Django">
   <img src="asset/tech/nodejs.svg" height="45" title="Node.js">
   <img src="asset/tech/express.svg" height="45" title="Express">
-  
+  <img src="asset/tech/graphql.svg" height="45" title="GraphQL">
+
   <!-- Frontend -->
   <img src="asset/tech/javascript.svg" height="45" title="JavaScript">
   <img src="asset/tech/typescript.svg" height="45" title="TypeScript">
   <img src="asset/tech/react.svg" height="45" title="React">
   <img src="asset/tech/html5.svg" height="45" title="HTML5">
   <img src="asset/tech/css3.svg" height="45" title="CSS3">
-  <img src="asset/tech/sass.svg" height="45" title="Sass">
-  
+
   <!-- Database -->
   <img src="asset/tech/mongodb.svg" height="45" title="MongoDB">
   <img src="asset/tech/postgresql.svg" height="45" title="PostgreSQL">
   <img src="asset/tech/mysql.svg" height="45" title="MySQL">
   <img src="asset/tech/sqlite.svg" height="45" title="SQLite">
-  
+
   <!-- DevOps & Cloud -->
   <img src="asset/tech/docker.svg" height="45" title="Docker">
   <img src="asset/tech/git.svg" height="45" title="Git">
   <img src="asset/tech/linux.svg" height="45" title="Linux">
   <img src="asset/tech/aws.svg" height="45" title="AWS">
   <img src="asset/tech/gcp.svg" height="45" title="GCP">
-  
-  <!-- Others -->
-  <img src="asset/tech/selenium.svg" height="45" title="Selenium">
-  <img src="asset/tech/figma.svg" height="45" title="Figma">
+
+  <!-- Discord / Misc — relevant to my work -->
   <img src="asset/tech/discordjs.svg" height="45" title="Discord.js">
-  <img src="asset/tech/graphql.svg" height="45" title="GraphQL">
-  <img src="asset/tech/java.svg" height="45" title="Java">
-  <img src="asset/tech/c.svg" height="45" title="C">
-  <img src="asset/tech/cplusplus.svg" height="45" title="C++">
-  <img src="asset/tech/hadoop.svg" height="45" title="Hadoop">
+  <img src="asset/tech/figma.svg" height="45" title="Figma">
+  <img src="asset/tech/selenium.svg" height="45" title="Selenium">
 </p>
+
+<details>
+  <summary align="center"><b>📂 Also touched (academic &amp; side experiments)</b></summary>
+  <p align="center">
+    <img src="asset/tech/go.svg" height="32" title="Go">
+    <img src="asset/tech/django.svg" height="32" title="Django">
+    <img src="asset/tech/sass.svg" height="32" title="Sass">
+    <img src="asset/tech/java.svg" height="32" title="Java">
+    <img src="asset/tech/c.svg" height="32" title="C">
+    <img src="asset/tech/cplusplus.svg" height="32" title="C++">
+    <img src="asset/tech/hadoop.svg" height="32" title="Hadoop">
+  </p>
+</details>
 
 <br>
 
@@ -238,7 +243,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <h2 align="center">💭 Quote</h2>
 
 <blockquote align="center">
-  <em>"At the time of stress coding, I use to read tarot cards for debugging hints 🃏"</em>
+  <em>"When I'm stress-coding, I read tarot cards for debugging hints 🃏"</em>
   <br>
   — <strong>Muhammad Fatih</strong>
 </blockquote>
@@ -263,5 +268,5 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 <hr>
 
 <div align="center">
-  <img src="asset/img/decor/space-shooter.gif" alt="space shooter mini-game" width="400"/>
+  <img src="asset/img/decor/end.GIF" alt="end" width="400" loading="lazy" decoding="async"/>
 </div>
