@@ -116,7 +116,7 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
   <table>
     <tr>
       <td align="center" width="300">
-        <a href="https://github.com/fthyll/TAROT-BOT">
+        <a href="https://github.com/Vey-Project/tarot-bot-discord">
           <img src="asset/img/Tarotbot.png" width="200" alt="TarotBot project preview: AI tarot reader for Discord" loading="lazy" decoding="async"/>
         </a>
         <br>
