@@ -6,7 +6,19 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 -->
 
 <p align="center">
-  <img src="asset/img/Hero character.png" height="200" alt="Memoji avatar of Muhammad Fatih">
+  <img
+    src="asset/img/Hero character.png"
+    width="200"
+    height="200"
+    alt="Memoji avatar of Muhammad Fatih"
+    style="
+      border-radius: 50%;
+      border: 2px solid #ff69b4;
+      box-shadow: 0 0 0 1px #ffe4ec;
+      object-fit: cover;
+      object-position: top;
+    "
+  >
 </p>
 
 <hr>
@@ -209,18 +221,6 @@ Muhammad Fatih and all assets self-hosted under `asset/`.
 </div>
 
 <hr>
-
-<!-- ==================== TOP.GG WIDGET FULL SIZE ==================== -->
-<h2 align="center">🤖 TarotBot on Top.gg</h2>
-
-<div align="center">
-  <a href="https://top.gg/bot/1458047428711153716" target="_blank">
-    <img src="https://top.gg/api/widget/1458047428711153716.svg" alt="TarotBot on Top.gg" width="600">
-  </a>
-</div>
-
-<br>
-
 
 <!-- ==================== SUPPORT ==================== -->
 <h2 align="center">☕ Support Me</h2>
